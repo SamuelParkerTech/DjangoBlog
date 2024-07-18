@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-#aa-pd=u04ug3=kw-34rfv%uj2h49$m!__&@8(iw1n8-vysfkq
 DEBUG = False
 
 ALLOWED_HOSTS = ['8000-samuelparker-djangorepo-lyrl0eo6ep1.ws.codeinstitute-ide.net',
-                '.herokuapp.com']
+                '.herokuapp.com', 'https://djangolearning-3db8034c053c.herokuapp.com/']
 
 
 # Application definition
